@@ -7,7 +7,7 @@
 * __Telegram:__ @tatyanakorlarina
 
 ## About Myself
-I am a teacher of English. I work for Skyeng. I have students all over the world. I really like my job but I want to try something new. So my goal now is to work as a front-end developer for an international company. I have necessary soft skills such as adaptability, communication skills, self-motivation, teamwork, problem-solving, stress resistance, time-management and of course emotional intelligence.Two years ago I studied HTML, CSS, JavaScript at SkyPro. But it was long ago, so I need to refresh my knowledge and obtain some to become a successful and reliable developer. 
+I am a teacher of English. I work for Skyeng. I have students all over the world. I really like my job but I want to try something new. So my goal now is to work as a front-end developer for an international company. I have necessary soft skills such as adaptability, communication skills, self-motivation, teamwork, problem-solving, stress resistance, time-management and of course emotional intelligence.Two years ago I studied HTML, CSS, JavaScript at SkyPro. But it was long ago, so I need to refresh my knowledge and obtain some to become a successful and reliable front-end developer. 
 ## Skills
 * HTML
 * CSS
