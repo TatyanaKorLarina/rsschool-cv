@@ -33,7 +33,7 @@ function howManydays(month){
 }
 ```
 ## Experience
-PREAX
+PREAX (2023)
 ## Education
 * __Higher Education:__ Nizhny Novgorod Linguistic University
 * __Courses:__ SkyPro (web-development)
