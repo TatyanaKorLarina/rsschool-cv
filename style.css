@@ -1,12 +1,18 @@
 @font-face {
   font-family: 'Savate';
-  src: url("assets/fonts/Savate.ttf");
+  src: url("./assets/fonts/Savate-VariableFont_wght.ttf");
 }
 
-body {
+* {
   font-family: 'Savate';
 }
 
 * {
   box-sizing: border-box;
+}
+
+.image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
 }
