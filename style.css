@@ -26,8 +26,13 @@ body {
   background-color: pink;
   height: 100px;
   padding: 30px;
+  list-style: none;
+  
 }
 
+.nav-link {
+  text-decoration: none;
+}
 .main {
   display: flex;
   justify-content: space-evenly;
