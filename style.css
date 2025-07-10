@@ -99,3 +99,29 @@ pre {
   padding: 10px;
   line-height: 0cqmin;
 }
+
+.logo {
+  width: 120px;
+  height: 90px;
+}
+
+footer {
+  display: flex;
+  gap: 32px;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: pink;
+  height: 100px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.position {
+  font-size: 32px;
+}
+
+#section__english {
+  padding-top: 50px;
+}
+
