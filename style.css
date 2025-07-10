@@ -15,6 +15,7 @@ body {
   width: 250px;
   height: 250px;
   border-radius: 50%;
+  
 }
 
 .nav-list {
@@ -25,4 +26,63 @@ body {
   flex-direction: row;
   background-color: pink;
   height: 100px;
+  padding: 20px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+
+.about {
+  width: 500px;
+ 
+
+}
+
+h1 {
+  font-size: 64px;
+  text-shadow: 4px 4px grey;
+}
+
+#section__about {
+  background-color: pink;
+  color: white;
+  text-align: justify;
+  box-shadow: 4px 4px grey;
+  padding: 10px;
+}
+
+.skills__list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+.contacts__list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+.education__list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+.projects__list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
 }
