@@ -32,6 +32,7 @@ body {
 
 .nav-link {
   text-decoration: none;
+  color: white;
 }
 .main {
   display: flex;
@@ -54,7 +55,7 @@ h1 {
   text-shadow: 4px 4px grey;
 }
 
-#section__about {
+#section-about {
   background-color: pink;
   color: white;
   text-align: justify;
@@ -62,7 +63,7 @@ h1 {
   padding: 20px;
 }
 
-.skills__list {
+.skills-list {
   background-color: gainsboro;
   padding: 10px;
   border: 1px solid pink;
@@ -70,7 +71,7 @@ h1 {
   box-shadow: 4px 4px pink;
 }
 
-.contacts__list {
+.contacts-list {
   background-color: gainsboro;
   padding: 10px;
   border: 1px solid pink;
@@ -78,7 +79,7 @@ h1 {
   box-shadow: 4px 4px pink;
 }
 
-.education__list {
+.education-list {
   background-color: gainsboro;
   padding: 10px;
   border: 1px solid pink;
@@ -86,7 +87,7 @@ h1 {
   box-shadow: 4px 4px pink;
 }
 
-.projects__list {
+.projects-list {
   background-color: gainsboro;
   padding: 10px;
   border: 1px solid pink;
@@ -98,7 +99,7 @@ pre {
   font-size: 16px;
 }
 
-#section__code {
+#section-code {
   background-color: pink;
   color: white;
   text-align: justify;
@@ -120,7 +121,7 @@ footer {
   flex-direction: row;
   background-color: pink;
   height: 100px;
-  padding: 20px;
+  padding: 40px;
   margin-top: 30px;
 }
 
@@ -128,7 +129,7 @@ footer {
   font-size: 32px;
 }
 
-#section__english {
+#section-english {
   padding-top: 50px;
 }
 
