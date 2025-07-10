@@ -1,3 +1,140 @@
-p {
-  color: blue;
+@font-face {
+  font-family: 'Savate';
+  src: url("./assets/fonts/Savate-VariableFont_wght.ttf");
 }
+
+body {
+  font-family: 'Savate';
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.image {
+  width: 250px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.nav-list {
+  display: flex;
+  gap: 32px;
+  justify-content: right;
+  align-items: center;
+  flex-direction: row;
+  background-color: pink;
+  height: 100px;
+  padding: 30px;
+  list-style: none;
+  
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link:hover {
+  color: grey;
+}
+
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+
+.about {
+  width: 500px;
+}
+
+.myself {
+  text-align: right;
+  padding-right: 70px;
+}
+
+h1 {
+  font-size: 48px;
+  text-shadow: 4px 4px grey;
+}
+
+#section-about {
+  background-color: pink;
+  color: white;
+  text-align: justify;
+  box-shadow: 4px 4px grey;
+  padding: 20px;
+}
+
+.skills-list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+.contacts-list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+.education-list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+.projects-list {
+  background-color: gainsboro;
+  padding: 10px;
+  border: 1px solid pink;
+  padding-left: 40px;
+  box-shadow: 4px 4px pink;
+}
+
+pre {
+  font-size: 16px;
+}
+
+#section-code {
+  background-color: pink;
+  color: white;
+  text-align: justify;
+  box-shadow: 4px 4px grey;
+  padding: 10px;
+  line-height: 1px;
+}
+
+.logo {
+  width: 120px;
+  height: 90px;
+}
+
+footer {
+  display: flex;
+  gap: 32px;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: pink;
+  height: 100px;
+  padding: 40px;
+  margin-top: 30px;
+}
+
+.position {
+  font-size: 32px;
+}
+
+#section-english {
+  padding-top: 50px;
+}
+
